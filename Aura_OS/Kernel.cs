@@ -29,7 +29,9 @@ namespace Aura_OS
         Setup setup = new Setup();
         public static bool running;
         public static string auraversion = "0.5.1";
-        public static string version = "21.8.2.116";
+        public static string version = "21.8.2.117";
+        public static string versionMark = "lavender";
+        public static string versionType = "dev";
         public static string revision = VersionInfo.revision;
         public static string current_directory = @"0:\";
         public static string langSelected = "en_US";
