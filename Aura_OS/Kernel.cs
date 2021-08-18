@@ -36,7 +36,7 @@ namespace Aura_OS
         public static string userLogged;
         public static string userLevelLogged;
         public static bool Logged = false;
-        public static string ComputerName = "aura-pc";
+        public static string ComputerName = "cecilia-desktop";
         public static string UserDir = @"0:\Users\" + userLogged + "\\";
         public static bool SystemExists = false;
         public static bool JustInstalled = false;

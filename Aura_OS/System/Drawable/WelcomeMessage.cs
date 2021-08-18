@@ -26,7 +26,9 @@ namespace Aura_OS.System
                     break;
 
                 case "en_US":
-                    Console.WriteLine(" * Documentation: aura-team.com");
+                    Console.WriteLine(" * Copyright (c) RisConn Studio");
+                    Console.WriteLine(" * Cecilia OS is based on Aura OS");
+                    Console.WriteLine(" * Version: " + Kernel.version);
                     break;
 
                 case "nl_NL":
